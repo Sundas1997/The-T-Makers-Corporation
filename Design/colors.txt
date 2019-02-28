@@ -1,0 +1,5 @@
+Black: #393E46
+Red: #FC3C3C
+White: #FFF4E0
+Yellow: #F8B500
+Blue: #00ADB5
