@@ -1,2 +1,2 @@
 # The-T-Makers-Corporation
-# A T Shirt Design Website Design adn Development Stages
+# A T Shirt Designing Website's Design and Development Stages
